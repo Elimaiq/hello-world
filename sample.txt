@@ -1,1 +1,0 @@
-My name is Comfort Ogar and I am taking CS 246 - Software design and Development. I am currently practicing git.
